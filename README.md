@@ -354,3 +354,8 @@ export const educationData = [
 <br />
 
 # Created with :love: by Anirudh Jakhotia!
+
+<hr>
+
+<img height="120" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
