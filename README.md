@@ -15,11 +15,9 @@
 - [Usage](#usage-joystick)
 - [Hosting](#hosting-globe_with_meridians)
 - [SEO](#seo-spider)
-- [Packages Used](#packages-used-package)
-- [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
+- [APIs Used](#apis-used-world_map)
+- [Packages Used](#packages-used-package)
 
 <br /><br />
 
@@ -348,31 +346,6 @@ export const educationData = [
 
 <br />
 
-# Packages Used :package:
-
-| Client Side Packages  |
-| :-------------: |
-| @material-ui/core  |
-| @material-ui/icons  |
-| axios |
-| react-fast-marquee |
-| react-helmet  |
-| react-icons  |
-| react-reveal |
-| react-router-dom  |
-| react-router-hash-link  |
-| react-slick  |
-| slick-carousel |
-| validator |
-
-
-<br />
-
-# APIs Used :world_map:
-- [SheetDB](https://sheetdb.io/)
-
-
-<br />
 
 # Fonts and Images :performing_arts:
 
@@ -394,37 +367,29 @@ export const educationData = [
 
 <br />
 
-# Upcoming Features :construction:
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
-
-
-<br /><br />
-
-## Raise an issue for...
-- Found a bug
-- New theme
-- Can't find required skill in Skills section
-- Add new social media profile
-- Add new service
-- Add another section
-
-
-
+# APIs Used :world_map:
+- [SheetDB](https://sheetdb.io/)
 
 
 <br />
 
-# Contributors :man_technologist::woman_technologist:
 
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-            <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://raw.githubusercontent.com/ShimilSAbraham/Blender_Works/main/profile_shimil.jpeg" width="135px;" height="135px; alt=""/><br /><b>Shimil S Abraham</b></a></td>
-            <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
-        </tr>
-    </table>
-</div>
+# Packages Used :package:
+
+| Client Side Packages  |
+| :-------------: |
+| @material-ui/core  |
+| @material-ui/icons  |
+| axios |
+| react-fast-marquee |
+| react-helmet  |
+| react-icons  |
+| react-reveal |
+| react-router-dom  |
+| react-router-hash-link  |
+| react-slick  |
+| slick-carousel |
+| validator |
+
+
+<br />
