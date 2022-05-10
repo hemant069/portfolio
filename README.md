@@ -353,7 +353,7 @@ export const educationData = [
 
 <br />
 
-# Created with :love: by Anirudh Jakhotia!
+# Created with ❤️ by Anirudh Jakhotia!
 
 <hr>
 
