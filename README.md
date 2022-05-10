@@ -1,10 +1,11 @@
-# Developer Portfolio 
+# My-Portfolio 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
 </p>
 
-## Want to create a professional portfolio but cannot figure out how 
+## Check out my portfolio! 💼 - https://anirudhjakhotia.netlify.app/
+
 <br />
 
 ## Table of Contents :scroll:
@@ -55,13 +56,12 @@ git --version
 <br />
 
 # Getting Started :dart:
-### Fork and Clone the repo
+### Fork or Clone the repo
 
-#### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
+#### To Fork the repo click on the fork button at the top right of the page. To get the code-base, open your terminal and perform the following commands shown below:
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-cd developer-portfolio
+git clone https://github.com/anirudhjak06/My-Portfolio.git
+cd My-Portfolio-main
 ```
 ### Install packages from the root directory
 ```
@@ -354,8 +354,6 @@ export const educationData = [
 <br />
 
 # Created with ❤️ by Anirudh Jakhotia!
-
-<hr>
 
 <img height="120" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
