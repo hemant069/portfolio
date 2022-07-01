@@ -9,10 +9,10 @@
     'Bootstrap',
     'MongoDB',
     'React',
-    'Django',
-    'MySQL',
-    'Numpy',
-    'Graphql',
+    // 'Django',
+    // 'MySQL',
+    // 'Numpy',
+    // 'Graphql',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
